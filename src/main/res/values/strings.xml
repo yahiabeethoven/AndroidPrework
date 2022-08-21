@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Prework</string>
+    <string name="yahia_intro">Hello World! My name is Yahia Beethoven and I\'m computer Science senior at NYU. I am excited to get to learn Android development during this course.</string>
+    <string name="button_text">Say hello!</string>
+</resources>
